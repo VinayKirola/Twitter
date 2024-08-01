@@ -1,7 +1,5 @@
 #Twitter - The Social Media Platform
-Developed a Web Application where you can connect with people share your thoughts and interact with messages known as “tweets”. Registered users can post, like, and retweet tweets, but unregistered users can only read them.
-
-Youtube Link: 
+Developed a Web Application where you can connect with people share your thoughts and interact with messages known as “tweets”. Registered users can post, like, and retweet tweets, but unregistered users can only read them. 
 
 
 FrontEnd: #html5 #css3 #javascript
